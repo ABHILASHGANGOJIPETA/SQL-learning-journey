@@ -6,8 +6,6 @@ This repo will cover all the **fundamentals of SQL** step by step — perfect fo
 
 ---
 
-## 🚀 Day 1: Database Creation & Data Types
-On Day 1, I practiced:
 - Checking available databases in MySQL.  
 - Creating a new database.  
 - Selecting and using a database.  
