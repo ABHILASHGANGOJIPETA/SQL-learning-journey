@@ -32,7 +32,8 @@ This repo will cover all the **fundamentals of SQL** step by step — perfect fo
   - TCL → Commit, Rollback, Savepoint  
 
 ---
-
+ - Select Querys
+ - join Querys
 ---
 
 ## 🌟 Why This Project?
