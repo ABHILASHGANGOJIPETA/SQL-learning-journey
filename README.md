@@ -36,6 +36,7 @@ This repo will cover all the **fundamentals of SQL** step by step — perfect fo
  - join Querys
  - case statements
  - Coalesce
+ - case statements.sql
 ---
 
 ## 🌟 Why This Project?
