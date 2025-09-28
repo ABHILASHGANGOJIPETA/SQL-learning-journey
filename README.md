@@ -4,7 +4,7 @@ Welcome to my **SQL Learning Repository**!
 started my SQL journey and will be uploading **daily practice files** here.  
 This repo will cover all the **fundamentals of SQL** step by step — perfect for revision, interviews, and real-world use.
 
----
+--- 
 
 - Checking available databases in MySQL.  
 - Creating a new database.  
